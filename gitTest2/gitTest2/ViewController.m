@@ -28,6 +28,8 @@
     
     
     NSLog(@"Hello world");
+    
+    NSLog(@"gitUse");
 }
 
 @end
